@@ -1,6 +1,6 @@
-# Sims Needs Metre
+# Sims Needs Meter
 
-This 3D printable "needs metre" is inspired by the Sims games.
+This 3D printable "needs meter" is inspired by the Sims games.
 
 It offers a non-verbal option to communicate someone's current needs through 8 sliders.
  - 🍴 Hunger
